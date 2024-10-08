@@ -1,4 +1,4 @@
-rm image.png
-curl -o image.png 'https://static.wikia.nocookie.net/monstermovies/images/0/01/Whalemingo.jpg/revision/latest?cb=20160619230613'
-gsettings set org.gnome.desktop.background picture-uri-dark ~/funny/image.png
-gsettings set org.gnome.desktop.background picture-uri ~/funny/image.png
+cd $HOME
+curl -o WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW.png 'https://ih1.redbubble.net/image.5299194518.3470/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg'
+gsettings set org.gnome.desktop.background picture-uri-dark $HOME/WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW.png
+gsettings set org.gnome.desktop.background picture-uri $HOME/WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW.png
